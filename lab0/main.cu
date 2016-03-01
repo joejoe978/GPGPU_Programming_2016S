@@ -16,7 +16,7 @@ __global__ void SomeTransform(char *input_gpu, int fsize) {
 		//printf("!");
 		if(input_gpu[idx] >= 97){
 			//printf(" %c : %d \n",input_gpu[idx],input_gpu[idx]);
-			input_gpu[idx] -= 32; // toLower()
+			input_gpu[idx] -= 32; // toUpper()
 		}
 		//input_gpu[idx] = '!';
 	}
