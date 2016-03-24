@@ -1,0 +1,1 @@
+ I used ¡¨transform, sequence, inclusive scan, sequence and cudaMemcpy¡¨ (white text).
