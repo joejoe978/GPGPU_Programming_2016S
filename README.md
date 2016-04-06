@@ -5,4 +5,4 @@ Lab 0 : Convert all characters to be capital.
 
 Lab 1 : Prefix sum parallel algorithm, thrust library, and implement Longest Increasing Subsequence.
 
-Lab 2 : 
+Lab 2 : Implement Perlin Noise and make a short movie.
